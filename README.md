@@ -1,4 +1,5 @@
 # FileDifferentiator
+Program do sprawdzania czy obrazek ma prawdziwe rozszerzenie za pomocą magic numbers.
 To run: 
   mvn compile
   mvn package
